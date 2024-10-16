@@ -12534,7 +12534,7 @@ You can attach this unit to the above unit, even if one other Leader unit (excl
         <categoryLink targetId="1015-db48-a2fa-c7da" id="d94d-f344-6115-7386" primary="false" name="Faction: Drukhari"/>
       </categoryLinks>
       <costs>
-        <cost name="pts" typeId="51b2-306e-1021-d207" value="75"/>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="85"/>
       </costs>
       <selectionEntryGroups>
         <selectionEntryGroup name="Pistol Choice" hidden="false" id="323-b391-d6b7-df1a" defaultSelectionEntryId="e6ee-907c-8ecc-49a3">
@@ -12665,7 +12665,7 @@ You can attach this unit to the above unit, even if one other Leader unit (excl
         <categoryLink targetId="9cfd-1c32-585f-7d5c" id="6975-c30b-2b48-eaa7" primary="true" name="Character"/>
       </categoryLinks>
       <costs>
-        <cost name="pts" typeId="51b2-306e-1021-d207" value="105"/>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="120"/>
       </costs>
       <selectionEntries>
         <selectionEntry type="model" import="true" name="Beastmaster" hidden="false" id="3dd7-f29e-4f39-fa99">
@@ -12914,7 +12914,7 @@ You can attach this unit to the above unit, even if one other Leader unit (excl
         <categoryLink id="6e62-e017-fe09-a705" name="Infantry" hidden="false" targetId="cf47-a0d7-7207-29dc" primary="true"/>
       </categoryLinks>
       <costs>
-        <cost name="pts" typeId="51b2-306e-1021-d207" value="85"/>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="95"/>
       </costs>
       <selectionEntries>
         <selectionEntry type="model" import="true" name="Lhamaean" hidden="false" id="4ca8-abd5-72ae-b5a">
@@ -13308,7 +13308,7 @@ You can attach this unit to the above unit, even if one other Leader unit (excl
         <categoryLink id="833f-4c99-4d07-f34a" name="Character" hidden="false" targetId="9cfd-1c32-585f-7d5c" primary="false"/>
       </categoryLinks>
       <costs>
-        <cost name="pts" typeId="51b2-306e-1021-d207" value="75"/>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="85"/>
       </costs>
       <constraints>
         <constraint field="selections" scope="roster" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b908-f607-57e-38c5" type="max"/>
@@ -13608,7 +13608,7 @@ You can attach this unit to the above unit, even if one other Leader unit (excl
     </selectionEntry>
     <selectionEntry id="2311-9feb-9d0a-8154" name="Hellions" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
-        <modifier type="set" field="51b2-306e-1021-d207" value="170">
+        <modifier type="set" field="51b2-306e-1021-d207" value="150">
           <conditions>
             <condition field="selections" scope="2311-9feb-9d0a-8154" value="5" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="model" type="greaterThan"/>
           </conditions>
@@ -13628,7 +13628,7 @@ You can attach this unit to the above unit, even if one other Leader unit (excl
         <categoryLink id="6f2f-29f9-9bdf-b5b2" name="Fly" hidden="false" targetId="c619-2086-bbcf-69c9" primary="false"/>
       </categoryLinks>
       <costs>
-        <cost name="pts" typeId="51b2-306e-1021-d207" value="85"/>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="75"/>
       </costs>
       <selectionEntryGroups>
         <selectionEntryGroup name="Heliarch and 4-9 Hellions" hidden="false" id="8db7-4e53-eb9b-1f44" defaultSelectionEntryId="5603-89d5-83df-ddde">
@@ -13832,7 +13832,7 @@ You can attach this unit to the above unit, even if one other Leader unit (excl
     </selectionEntry>
     <selectionEntry id="1529-793d-481b-82bf" name="Incubi" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
-        <modifier type="set" field="51b2-306e-1021-d207" value="150">
+        <modifier type="set" field="51b2-306e-1021-d207" value="170">
           <conditions>
             <condition field="selections" scope="1529-793d-481b-82bf" value="5" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="model" type="greaterThan"/>
           </conditions>
@@ -13845,7 +13845,7 @@ You can attach this unit to the above unit, even if one other Leader unit (excl
         <categoryLink id="e157-d1a9-c791-43de" name="Infantry" hidden="false" targetId="cf47-a0d7-7207-29dc" primary="true"/>
       </categoryLinks>
       <costs>
-        <cost name="pts" typeId="51b2-306e-1021-d207" value="75"/>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="85"/>
       </costs>
       <profiles>
         <profile id="42ab-6af6-dae0-d2b0" name="Invulnerable Save" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -14431,7 +14431,7 @@ You can attach this unit to the above unit, even if one other Leader unit (excl
         <categoryLink id="3292-9825-2285-b3d0" name="Infantry" hidden="false" targetId="cf47-a0d7-7207-29dc" primary="false"/>
       </categoryLinks>
       <costs>
-        <cost name="pts" typeId="51b2-306e-1021-d207" value="85"/>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="95"/>
       </costs>
       <constraints>
         <constraint field="selections" scope="roster" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b908-f607-57e-38c5" type="max"/>
@@ -14518,7 +14518,7 @@ You can attach this unit to the above unit, even if one other Leader unit (excl
         <categoryLink id="b886-e314-7868-75f5" name="Infantry" hidden="false" targetId="cf47-a0d7-7207-29dc" primary="true"/>
       </categoryLinks>
       <costs>
-        <cost name="pts" typeId="51b2-306e-1021-d207" value="65"/>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="70"/>
       </costs>
       <selectionEntryGroups>
         <selectionEntryGroup name="1 Nightfiend and 4-9 Mandrakes" hidden="false" id="6ebf-3e3b-8209-8198" defaultSelectionEntryId="8696-f601-cde0-da6c">
@@ -15157,7 +15157,7 @@ You can attach this unit to the above unit, even if one other Leader unit (excl
         <categoryLink id="992c-c113-9001-5a75" name="Mounted" hidden="false" targetId="14a0-40c9-2748-ae6e" primary="true"/>
       </categoryLinks>
       <costs>
-        <cost name="pts" typeId="51b2-306e-1021-d207" value="60"/>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="65"/>
       </costs>
       <selectionEntryGroups>
         <selectionEntryGroup name="Arena Champion and 2-5 Reavers" hidden="false" id="e29-840d-814b-fe7c">
